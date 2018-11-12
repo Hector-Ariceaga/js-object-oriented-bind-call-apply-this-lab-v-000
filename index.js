@@ -1,3 +1,3 @@
 function justInvoke(fn) {
-  fn.call(thisValue)
+  this.call(fn)
 }
