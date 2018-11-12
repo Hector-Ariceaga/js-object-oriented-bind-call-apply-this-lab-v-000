@@ -1,3 +1,3 @@
 function justInvoke(fn) {
-  const value = this.fn.call
+  const value = this.fn
 }
